@@ -2,7 +2,9 @@
 Welcome to the Coffee Break. This project is a Web application built with React and styled with Tailwind CSS. It's designed to help a local business to showcase the menu, services, and atmosphere of their cozy coffee cafe in Sikkim.
 
 ## Link
-Check out the Website [Click here](https://coffee-break-three.vercel.app/)
+Check out the Website <a href="https://coffee-break-three.vercel.app/" target="_blank">click here</a>
+
+
 
 ## Features
 Responsive design for a seamless experience across devices.
