@@ -10,7 +10,7 @@ Check out the Website <a href="https://coffee-break-three.vercel.app/" target="_
 Responsive design for a seamless experience across devices.
 Interactive menu showcasing our delightful coffee offerings and snacks.
 Information about our cafe, including opening hours and location.
-- **Interative Men:** showcasing our delightful coffee offerings and snacks.
+- **Interative Menu:** showcasing our delightful coffee offerings and snacks.
 - **Information:** about our cafe, including opening hours and location.
 - **Responsive design:** for a seamless experience across devices.
 
