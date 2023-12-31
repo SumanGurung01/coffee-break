@@ -28,7 +28,7 @@ function Item() {
             {menuItem.display_name}
           </p>
           {menuItem.items.map((item) => (
-            <div className="my-6 w-[300px] md:w-[500px]">
+            <div className="my-10 w-[300px] md:w-[500px]">
               <p className="text-2xl font-semibold">{item.name}</p>
               <p className="text-base font-semibold text-zinc-500">
                 {item.description}

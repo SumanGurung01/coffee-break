@@ -15,6 +15,7 @@ import { MdLocationOn } from "react-icons/md";
 function App() {
   useEffect(() => {
     Aos.init({ duration: 500 });
+    window.scroll(0, 0);
   }, []);
   return (
     <div className="App">

@@ -19,12 +19,12 @@ function Home() {
         <p className="font-serif text-5xl font-bold text-amber-800 md:mt-[-30px] md:text-[90px]">
           Coffee Break
         </p>
-        <a href="#content" className="my-10">
+        <a href="#content" className="my-10" id="content">
           <FaChevronDown />
         </a>
       </div>
 
-      <div id="content">
+      <div className="mt-5">
         <div className="mb-20 flex flex-col items-center" data-aos="fade-up">
           <h1 className="my-5 text-center text-2xl text-amber-800 md:text-4xl">
             Our Story
