@@ -6,8 +6,7 @@ import { MdLunchDining } from "react-icons/md";
 function Navbar() {
   return (
     <nav
-      className="flex items-center justify-between p-3 text-amber-800
-      md:mx-[10%]"
+      className="flex items-center justify-between p-3 text-amber-800 md:mx-[10%]"
       data-aos="fade-down"
     >
       <Link
@@ -33,7 +32,7 @@ function Navbar() {
         </Link>
 
         <Link
-          to={"/menu"}
+          to={"/location"}
           className="mx-3 flex items-center duration-300 hover:translate-y-[-3px] hover:text-black"
         >
           <MdLocationOn />

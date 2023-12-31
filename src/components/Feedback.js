@@ -3,7 +3,10 @@ import { randomColor, reviews } from "../libs/constant";
 
 function Feedback() {
   return (
-    <div className="no-scrollbar flex w-full flex-row overflow-x-scroll">
+    <div
+      className="no-scrollbar flex w-full flex-row overflow-x-scroll"
+      data-aos="fade-up"
+    >
       {reviews.map((review) => {
         return (
           <div className="m-2 h-40 w-96 shrink-0 rounded-xl p-5 shadow-lg">
